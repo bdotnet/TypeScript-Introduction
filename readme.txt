@@ -1,3 +1,9 @@
+
+Install tsc & typescript
+
+npm intall -g tsc 
+npm install -g typescript
+
 ************* Setting up VS Code ********************************
 
 Build Task 
